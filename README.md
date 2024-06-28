@@ -10,6 +10,14 @@ sem esquecer de passar os cabeçalhos na requisição:
  headers: { 'Content-Type': 'application/json'}
 
 
+segue o link para download do banco de dados:
+
+
+https://github.com/davidzzz01/projeto-banco-de-dados-facudade
+
+
+
+
 exemplo:
 
 
