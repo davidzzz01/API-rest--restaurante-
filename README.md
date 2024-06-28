@@ -4,5 +4,5 @@ http://localhost/api_restaurante/api/cardapio.php
 http://localhost/api_restaurante/api/pedidos.php
 http://localhost/api_restaurante/api/categoria.php
 
-sem esquecer dos cabeçalhos:
+sem esquecer de passar os cabeçalhos na requisição:
  headers: { 'Content-Type': 'application/json'}
