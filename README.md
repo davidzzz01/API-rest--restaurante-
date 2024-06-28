@@ -11,5 +11,10 @@ sem esquecer de passar os cabeçalhos na requisição:
 
 
 exemplo:
+
+
+
+
+
 ![image](https://github.com/davidzzz01/API-rest--restaurante-/assets/169477412/a7954528-67c5-4daf-9fba-525a0bf5e201)
 
